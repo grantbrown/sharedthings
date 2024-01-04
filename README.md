@@ -1,5 +1,5 @@
 # sharedthings
-Files and projects shared under a CC BY-NC 4.0 license
+Files and projects shared under a CC BY-NC-SA 4.0 license
 
 1. **[Double Cluster](./LightBurn/DoubleCluster) project in LightBurn.**
 
